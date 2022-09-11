@@ -1,0 +1,5 @@
+# Che cos’è l’App Store Optimization
+
+Il termine App store Optimization è un terminato nato insieme alla nascita degli store di Apple e Google, appena le due aziende hanno presentato le loro rispettive piattaforme tantissime persone hanno capito immediatamente il potenziale di questa rivoluzione e dell’impatto dell’adozione di tecniche di ottimizzazione poteva avere sui ricavi.
+Molto probabilmente avrai sentito il termine SEO ( Search Engine Optimization ) ovvero l’insieme di tutte le pratiche utile ad ottimizzare una pagina web per i motori di ricerca. Ecco la ASO ( App Store Optimization ) è la stessa cosa ma per gli store di Apple e Google. 
+Purtroppo oggi siamo ben lontani dai tempi in cui bastava pubblicare un’app per ottenere automaticamente migliaia di download, oggi la concorrenza è agguerrita e ci sono migliaia di sviluppatori che pubblicano app ogni giorno, ma anche qui ho una buona notizia da darvi, molti di loro non hanno la minima idea di cosa sia l’ASO di conseguenza alla fine di questo libro voi avrete una marcia in più rispetto a loro.

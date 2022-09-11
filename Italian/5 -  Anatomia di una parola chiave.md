@@ -1,0 +1,7 @@
+### Anatomia di una parola chiave
+
+Tre sono gli aspetti principali che ci permettono di capire se una parola chiave è valida o meno e sono la popolarità, la difficoltà e la rilevanza.
+PopolaritàLa popolarità è un valore che ci permette di capire esattamente quanto una parola chiave è cercata all’interno dell’App Store, una parola chiave molto ricercata genera più download per la nostra app. Per questo valore esiste solo una fonte attendibile da cui potete ottenere questo valore, Apple. La buona notizia è che potete accedere a questo valore gratuitamente semplicemente creando un account su Apple Search Ads, il servizio per gli annunci pubblicitari di Apple. Questo servizio vi permette di accedere a questo valore e di capire se una keyword è ricercata o meno. Quello che dovete fare è semplicemente creare un nuovo account al servizio e aver pubblicato almeno un’app sull’app store. 
+Piccolo trucco, se quando create l’account il vostro paese non è tra quelli in elenco potete selezionare come paese stati uniti, in quanto non ci servirà attivare effettivamente una campagnia o fare qualcosa di particolare l’unica cosa di cui avremo bisogno è l’accesso ad apple search ads. 
+Descrivere nel dettaglio la procedura di accesso come fare ecc.
+Ora sapete come ottenere la popolarità di una parola chiave gratuitamente, se siete interessati a farlo in maniera più veloce e con un dettaglio maggiore sul livello di popolarità, potete utilizzare un tool come Astro che può semplificarti la ricerca.

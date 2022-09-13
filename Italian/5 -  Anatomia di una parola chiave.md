@@ -45,3 +45,38 @@ Un altro punto da non sottovalutare per calcolare per conto nostro la valutazion
 Link di come l'App Store fornisce [risultati di ricerca](https://apps.apple.com/it/story/id1620909697?l=en)
 
 Questi 3 valori 
+
+Con questi tre valori puoi avere un idea di come calcolare la difficoltà di una parola chiave parogandno la tua app con i valori medi delle app nelle prime 10 posizioni dovresti essere in grado di capire se una parola chiave è alla tua portata o meno. Ora andiamo a parlare dell'ultimo valore la Rilevanza.
+
+### Rilevanza
+
+Quando si parla di parole chiave, si parla quasi sempre di popolarità e difficoltà, facendo quasi mai riferimento a questa parola Rilevanza, cerchiamo di capire cosa significa.
+
+Per rilevanza si intende quanto una parola chiave è rilevante per la nostra app, in altri termini con quanta probabilità un utente che sta cercando un'app come la nostra andrà ad usare quella parola chiave.
+
+Quando scegliamo delle parole chiave facciamo sempre molta attenzione a popolarità e difficoltà ma quasi mai alla rilevanza. Infatti se troviamo una parola chiave che ha una popolarità alta e una difficoltà bassa nella nostra mente pensiamo eccola l'ho trovata. In realtà bisognerebbe fare un ulteriore analisi per capire se quella parola chiave è davvero rilevante per noi o meno.
+
+Inventare un esempio qui.
+
+Scegliere parole con un alta popolarità ma non rilevanti per la nostra app è un arma a doppio taglio, per diversi motivi:
+
+- Protebbe portarvi più impressioni, ma non sempre le impressioni sono un indicatore positivo. infatti se le impressioni crescono ma il vostro conversion rate crolla forse state sando delle keyword errate.
+- Rischio di recensioni negative, se qualcuno scarica la vostra app aspettandosi una cosa e poi ne trova un altra sarà più propenzo a lasciarvi una recensione negativa.
+- Le recensioni negative faranno scendere il ranking della vostra app
+- Con una media di recensioni sotto al 4 anche i download della vostra app e il conversion rate andrà a scendere.
+
+Come possiamo immaginare ogni cosa è collegatae se scegliamo male le nostre parole chiave le ripercussioni si vedranno su tutti i nostri dati. 
+
+Quando scegliamo una parola chiave quindi quello che dovremmo fare è chiederci questa parola chiave è davvero adatta alla mia app.
+
+Checklist per scegliere una buona parola chiave.
+
+- Questa parola chiave ha un valore di popolarità almeno > 20 ?
+- Questa parola chiave ha un livello di difficoltà accessibile per la mia app?
+- Nelle prime 10 posizioni per quella specifica parola chiave ci sono delle app con cui sento di poter competere e vincere?
+- Questa parola chiave è davvero rilevante per la mia app? I miei futuri utenti useranno proprio quelle parole per cercare la mia app.
+
+Queste sono tutte buone argomentazioni che dovrebbero portarci ad individuare con facilità le nostra prossima keyword, inzialmente fare tutte queste analisi potrebbe essere un processo difficile e lungo, per semplificarci la vita possiamo utilizzare un tool di app store Optimization come Astro o anche utilizzare questo template google che ho creato per permetterti di tenere traccia delle tue parole chiave.
+
+
+

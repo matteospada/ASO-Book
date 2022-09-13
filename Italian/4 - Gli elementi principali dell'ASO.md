@@ -38,6 +38,19 @@ https://support.apple.com/it-it/guide/imovie/movd5d987b5d/mac
 ### Keywords
 
 Il campo keyword in cui andiamo ad inserire le nostre keyword è importantissimo perché ci permetti di avere x caratteri di spazio per inserire delle parole chiave per le quali vogliamo ottimizzare la nostra app. Il campo keywords va usato con attenzione e seguendo alcune regole:
-Le keyword più rilevanti per la nostra app vanno inserite primaLe keyword vanno sepate da una virgola anche se formano una sola porala chiave, per questo motivo se voglio indicizzarmi per la keyword book tracker nel campo keyword la scrivero in questo modo: book,trackerNel campo keyword non si usano spazi ma soltanto virgole per separare le parole chiave.Nel campo keyword come per il titolo o il sottotiolo non si ripetono MAI le stesse keyword, se avete già inserito una keyword nel titolo o nel sottotitolo non va ripetuta anche nel campo keyword.Le Keyword si inseriscono solo al singolare se vogliamo indicizzare la nostra app per habits e habit basterà scrivere habit.Anche gli errori di battitura sono delle keyword, spesso quando la nostra app non è ancora abbastanza popolare da poter competere con altre app simili possiamo usare degli errori di battitura per trovare delle keyword con una buona popolartà ma bassa difficoltà, parleremo di questi due temi nei capitoli successivi.Se vogliamo indicizzare la nostra app per relaxing sound e rain sound il modo corretto per scrivere questa keyword è sound,realaxing,rain. L’algorimo di ricerca di apple si occuperà automaticamente di fare creare tutte le combinazioni per noi.
+
+Le keyword più rilevanti per la nostra app vanno inserite prima, Le keyword vanno sepate da una virgola anche se formano una sola porala chiave, per questo motivo se voglio indicizzarmi per la keyword book tracker nel campo keyword la scrivero in questo modo: book,trackerNel campo keyword non si usano spazi ma soltanto virgole per separare le parole chiave.
+
+Nel campo keyword come per il titolo o il sottotiolo non si ripetono MAI le stesse keyword, se avete già inserito una keyword nel titolo o nel sottotitolo non va ripetuta anche nel campo keyword.Le Keyword si inseriscono solo al singolare se vogliamo indicizzare la nostra app per habits e habit basterà scrivere habit.Anche gli errori di battitura sono delle keyword, spesso quando la nostra app non è ancora abbastanza popolare da poter competere con altre app simili possiamo usare degli errori di battitura per trovare delle keyword con una buona popolartà ma bassa difficoltà, parleremo di questi due temi nei capitoli successivi.Se vogliamo indicizzare la nostra app per relaxing sound e rain sound il modo corretto per scrivere questa keyword è sound,realaxing,rain. L’algorimo di ricerca di apple si occuperà automaticamente di fare creare tutte le combinazioni per noi.
 Un buon esempio di campo keyword:
 Foto
+
+### Dove si nascondono altre parole chiave.
+
+Nel precedente paragrafo abbiamo già nominato tre posti, il titolo, il sottotiolo e il campo note. Questi sono quelli pià conosciuti ne esistono però altri due un po' meno conosciuti che ci permettono comunque di aggiungere altre keyword alla nostra applicazione. e sono
+
+In-App Purchase Names
+
+In-App Event Names 
+
+Category name

@@ -65,7 +65,7 @@ Scegliere parole con un alta popolarità ma non rilevanti per la nostra app è u
 - Le recensioni negative faranno scendere il ranking della vostra app
 - Con una media di recensioni sotto al 4 anche i download della vostra app e il conversion rate andrà a scendere.
 
-Come possiamo immaginare ogni cosa è collegatae se scegliamo male le nostre parole chiave le ripercussioni si vedranno su tutti i nostri dati. 
+Come possiamo immaginare ogni cosa è collegata e se scegliamo male le nostre parole chiave le ripercussioni si vedranno su tutti i nostri dati. 
 
 Quando scegliamo una parola chiave quindi quello che dovremmo fare è chiederci questa parola chiave è davvero adatta alla mia app.
 
@@ -73,7 +73,7 @@ Checklist per scegliere una buona parola chiave.
 
 - Questa parola chiave ha un valore di popolarità almeno > 20 ?
 - Questa parola chiave ha un livello di difficoltà accessibile per la mia app?
-- Nelle prime 10 posizioni per quella specifica parola chiave ci sono delle app con cui sento di poter competere e vincere?
+- Nelle prime 10 posizioni per quella specifica parola chiave ci sono delle app con cui sento di poter competere?
 - Questa parola chiave è davvero rilevante per la mia app? I miei futuri utenti useranno proprio quelle parole per cercare la mia app.
 
 Queste sono tutte buone argomentazioni che dovrebbero portarci ad individuare con facilità le nostra prossima keyword, inzialmente fare tutte queste analisi potrebbe essere un processo difficile e lungo, per semplificarci la vita possiamo utilizzare un tool di app store Optimization come Astro o anche utilizzare questo template google che ho creato per permetterti di tenere traccia delle tue parole chiave.
